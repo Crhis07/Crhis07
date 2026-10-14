@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Crhistian+👋;Backend+%26+Full-Stack+Architect;High-Performance+Enterprise+Systems" alt="Typing SVG" />
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Crhis07&style=for-the-badge&color=00f0ff&label=PROFILE+VIEWS" alt="Visitor Count" />
-  </p>
+  <img src="https://api.visitorbadge.io/api/visitors?path=Crhis07&label=VISITORS&labelColor=0d1117&countColor=00f0ff&style=for-the-badge" alt="Visitor Count" />
+</p>
 </div>
 
 ---
